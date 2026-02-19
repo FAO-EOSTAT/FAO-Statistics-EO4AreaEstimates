@@ -6,17 +6,12 @@ Earth Observation (EO) products such as crop type maps are increasingly availabl
 
 This repository implements a workflow that bridges remote sensing and statistical production by integrating:
 
-EO crop classification maps
-
-probability sampling design
-
-reference (ground) observations
-
-bias correction procedures
-
-design-based area estimation
-
-confidence interval and uncertainty estimation
+- EO crop classification maps
+- probability sampling design
+- reference (ground) observations
+- bias correction procedures
+- design-based area estimation
+- confidence interval and uncertainty estimation
 
 The workflow allows countries to transform EO-derived information into statistically valid crop area estimates that can support agricultural statistics, food security monitoring, and policy decision-making.
 
